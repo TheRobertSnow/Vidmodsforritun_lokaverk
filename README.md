@@ -24,5 +24,5 @@ Pöntuðum hluti í samræmi við hugmyndir okkar og komumst svo að því að n
 ## Conclusion
 Þetta var skemmtilegur og áhugaverður áfangi, mikið frelsi er nánast alltaf mjög fínt og hentar vel, en eina sem hefði getað farið betur var að fá hlutina sem okkur vantaði til að gera verkefnið sem við höfðum planað. 
 Næstu skref væru að panta kassa og segullás og setja þetta upp inni í honum.
-## Linkur á github
+## Linkur á github, til að skoða kóða og annað
 https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk
