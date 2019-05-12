@@ -43,13 +43,13 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 </figure>
 
 ### Myndir
-![Mynd1](https://i.imgur.com/8i6PMnF.jpg =250x)
-![Mynd2](https://i.imgur.com/OC7Hufa.jpg =250x)
-![Mynd3](https://i.imgur.com/0xGngMu.jpg =250x)
-![Mynd4](https://i.imgur.com/bAJgfCE.jpg =250x)
-![Mynd5](https://i.imgur.com/tXY3ZRw.jpg =250x)
-![Mynd6](https://i.imgur.com/quokVZV.jpg =250x)
-![Mynd7](https://i.imgur.com/b8pmjx8.jpg =250x)
+![Mynd1](https://i.imgur.com/8i6PMnF.jpg =250x250)
+![Mynd2](https://i.imgur.com/OC7Hufa.jpg =250x250)
+![Mynd3](https://i.imgur.com/0xGngMu.jpg =250x250)
+![Mynd4](https://i.imgur.com/bAJgfCE.jpg =250x250)
+![Mynd5](https://i.imgur.com/tXY3ZRw.jpg =250x250)
+![Mynd6](https://i.imgur.com/quokVZV.jpg =250x250)
+![Mynd7](https://i.imgur.com/b8pmjx8.jpg =250x250)
 
 ### Linkur á github, til að skoða kóða og annað
 [https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk](https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk
