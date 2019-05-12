@@ -1,5 +1,3 @@
-# Vidmotsforritun Lokaverkefni
-
 ### Lokaverkefni Skýrsla
 **Meðlimir í hóp:**
 - Róbert Snær Harðarson
@@ -39,18 +37,14 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 ### Video
 
 <figure class="video_container">
-  <iframe width="900" height="400" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Myndir
-![Mynd1](https://i.imgur.com/8i6PMnF.jpg =250x250)
-![Mynd2](https://i.imgur.com/OC7Hufa.jpg =250x250)
-![Mynd3](https://i.imgur.com/0xGngMu.jpg =250x250)
-![Mynd4](https://i.imgur.com/bAJgfCE.jpg =250x250)
-![Mynd5](https://i.imgur.com/tXY3ZRw.jpg =250x250)
-![Mynd6](https://i.imgur.com/quokVZV.jpg =250x250)
-![Mynd7](https://i.imgur.com/b8pmjx8.jpg =250x250)
-
-### Linkur á github, til að skoða kóða og annað
-[https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk](https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk
-)
+![Mynd1](https://i.imgur.com/8i6PMnF.jpg)
+![Mynd2](https://i.imgur.com/OC7Hufa.jpg)
+![Mynd3](https://i.imgur.com/0xGngMu.jpg)
+![Mynd4](https://i.imgur.com/bAJgfCE.jpg)
+![Mynd5](https://i.imgur.com/tXY3ZRw.jpg)
+![Mynd6](https://i.imgur.com/quokVZV.jpg)
+![Mynd7](https://i.imgur.com/b8pmjx8.jpg)
