@@ -41,20 +41,12 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 </figure>
 
 ### Myndir
-![Mynd1](./Myndir/0xGngMu.jpg)
-![Mynd2](./Myndir/8i6PMnF.jpg)
-![Mynd3](./Myndir/OC7Hufa.jpg)
-![Mynd4](./Myndir/b8pmjx8.jpg)
-![Mynd5](./Myndir/bAJgfCE.jpg)
-![Mynd6](./Myndir/quokVZV.jpg)
-![Mynd7](./Myndir/tXY3ZRw.jpg)
-
 <p float="left">
-  <img src="./Myndir/0xGngMu.jpg" width="100" />
-  <img src="./Myndir/8i6PMnF.jpg" width="100" /> 
-  <img src="./Myndir/OC7Hufa.jpg" width="100" />
-  <img src="./Myndir/b8pmjx8.jpg" width="100" />
-  <img src="./Myndir/bAJgfCE.jpg" width="100" /> 
-  <img src="./Myndir/quokVZV.jpg" width="100" />
-  <img src="./Myndir/tXY3ZRw.jpg" width="100" />
+  <img src="./Myndir/0xGngMu.jpg" width="300" />
+  <img src="./Myndir/8i6PMnF.jpg" width="300" /> 
+  <img src="./Myndir/OC7Hufa.jpg" width="300" />
+  <img src="./Myndir/b8pmjx8.jpg" width="300" />
+  <img src="./Myndir/bAJgfCE.jpg" width="300" /> 
+  <img src="./Myndir/quokVZV.jpg" width="300" />
+  <img src="./Myndir/tXY3ZRw.jpg" width="300" />
 </p>
