@@ -37,16 +37,16 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 ### Video
 
 <figure class="video_container">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Myndir
 <p float="left">
-  <img src="./Myndir/0xGngMu.jpg" width="300" />
-  <img src="./Myndir/8i6PMnF.jpg" width="300" /> 
-  <img src="./Myndir/OC7Hufa.jpg" width="300" />
-  <img src="./Myndir/b8pmjx8.jpg" width="300" />
-  <img src="./Myndir/bAJgfCE.jpg" width="300" /> 
-  <img src="./Myndir/quokVZV.jpg" width="300" />
-  <img src="./Myndir/tXY3ZRw.jpg" width="300" />
+  <img src="./Myndir/0xGngMu.jpg" width="320" />
+  <img src="./Myndir/8i6PMnF.jpg" width="320" /> 
+  <img src="./Myndir/OC7Hufa.jpg" width="320" />
+  <img src="./Myndir/b8pmjx8.jpg" width="320" />
+  <img src="./Myndir/bAJgfCE.jpg" width="320" /> 
+  <img src="./Myndir/quokVZV.jpg" width="320" />
+  <img src="./Myndir/tXY3ZRw.jpg" width="320" />
 </p>
