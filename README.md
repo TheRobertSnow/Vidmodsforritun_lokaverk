@@ -41,10 +41,10 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 </figure>
 
 ### Myndir
-![Mynd1](./Myndir/0xGngMu.jpg =250x)
-![Mynd2](./Myndir/8i6PMnF.jpg =250x)
-![Mynd3](./Myndir/OC7Hufa.jpg =250x)
-![Mynd4](./Myndir/b8pmjx8.jpg =250x)
+![Mynd1](/Myndir/0xGngMu.jpg =250x)
+![Mynd2](/Myndir/8i6PMnF.jpg =250x)
+![Mynd3](/Myndir/OC7Hufa.jpg =250x)
+![Mynd4](/Myndir/b8pmjx8.jpg =250x)
 ![Mynd5](./Myndir/bAJgfCE.jpg =250x)
 ![Mynd6](./Myndir/quokVZV.jpg =250x)
 ![Mynd7](./Myndir/tXY3ZRw.jpg =250x)
