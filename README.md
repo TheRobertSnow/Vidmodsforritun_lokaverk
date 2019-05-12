@@ -46,5 +46,5 @@ Næstu skref væru að panta kassa og segullás og setja þetta upp inni í honu
 </figure>
 
 ## Linkur á github, til að skoða kóða og annað
-[Github LINK](https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk
+[](https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk
 )
