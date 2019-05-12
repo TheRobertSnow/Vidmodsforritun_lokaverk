@@ -1,19 +1,27 @@
 # Vidmodsforritun_lokaverk
+# Lokaverkefni Skýrsla
+**Meðlimir í hóp:**
+- Róbert Snær Harðarson
+- Daníel Þór Gestsson
 
-## Innkaupalisti
-https://www.amazon.com/YANGHX-600lbs-Electromagnetic-Holding-Control/dp/B01GCRPYTQ/ref=sr_1_2_sspa?keywords=magnetic+door+lock&qid=1552386121&s=gateway&sr=8-2-spons&psc=1
-
-https://www.amazon.com/GeeekPi-Capacitive-800x480-Raspberry-BeagleBone/dp/B0749D617J/ref=sr_1_fkmrnull_1?keywords=GeeekPi+5+inch&qid=1552386156&s=gateway&sr=8-1-fkmrnull
-
-https://www.amazon.com/gp/offer-listing/B06XVV8W9B/ref=dp_olp_new_mbc?ie=UTF8&condition=new
-
-https://www.amazon.com/120pcs-Multicolored-Breadboard-Arduino-Raspberry/dp/B072L1XMJR/ref=as_li_ss_tl?ie=UTF8&qid=1499854573&sr=8-1-spons&keywords=dupont+cables&psc=1&linkCode=sl1&tag=paulfp-20&linkId=fbc0ed41d1e2ac6e9c659a92f808a720
-
-https://www.amazon.com/Makerfocus-Raspberry-Model-Expansion-Extension/dp/B06WWRZ7PS/ref=as_li_ss_tl?ie=UTF8&qid=1500646354&sr=8-2-fkmr0&keywords=MakerHawk+Raspberry+Pi+3+Pi+2+Pi+Model+B++GPIO+Expansion+Extension+Board+One+Row+to+Be+three+Rows+GPIO&linkCode=sl1&tag=paulfp-20&linkId=f86f3172483b7a89321dbaa238e2f988
-
-https://www.amazon.com/StrivedayTM68pcs-Spring-Connector-welding-Terminal/dp/B01KT91OEW/ref=sr_1_2?keywords=choc+block+connectors&linkCode=sl2&linkId=2f5417a5eea04d5b415ef955f7e94356&qid=1552384461&s=hi&sr=1-2-catcorr&tag=paulfp-20
-
-https://www.amazon.com/TBI-Pro-Controller-Upgraded-Multi-Color/dp/B07J9HTB78/ref=sr_1_fkmrnull_1_sspa?crid=6WUZGT793IM8&keywords=tbi+pro+32.8ft+300leds+smd+5050+rgb&qid=1552386673&s=gateway&sprefix=tbi+pro+%2Caps%2C253&sr=8-1-fkmrnull-spons&psc=1
-
-TOTAL WORTH : $160.45
-Eildar verð: 19.319 kr
+## Intro
+Í þessari skýrslu verður sagt frá lokaverkefninu sem þessi hópur var að
+vinna á yfir síðustu vikur. Í þessari skýrslu verður tekið fram hvaða 
+tæki voru notuð, hvað var gert og hver útkoman er.
+## Body
+### Hugmyndavinna
+Lagðar vour framm tvær hugmyndir. Önnur var að búa til hanska sem hægt væri að nota á einhvern hátt í 3D forriti. Þá væri hanskinn notaður til að stjórna 3D hendi inni í forriti sem væri búið til í Unity.
+Hin hugmyndin var að búa til einhvers konar öryggis myndavél sem að aflæsir hurð þegar hún sér rétta andlitið.
+Valið var að gera öryggis myndavélina og gerðar voru nokkrar breytingar. Í staðinn fyrir að nota hurð var ákveðið að nota kassa sem væri læst og aflæst. Tengd við kassann væru LED strýpur sem gæfu frá sér mismunandi ljós eftir því hvort kassinn er læst eða ekki.
+![Teikning af kassa](https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/54257718_333606560602634_3607425735800651776_n.jpg?_nc_cat=106&_nc_ht=scontent-arn2-1.xx&oh=d225bc2da082f52b82c3329553cb5d2f&oe=5D31A164)
+Skoðað var að setja upp myndavéla stand sem myndi halda utanum alla tölvuhluti en svo var ákveðið að koma því fyrir í kassanum sjálfum.
+### Vinna við verkefnið sjálft
+Pöntuðum hluti í samræmi við hugmyndir okkar og komumst svo að því að nánast ekkert af því sem við pöntuðum skilaði sér til landsins, þetta hægði mjög á verkefninu sérstaklega þar sem þetta kom seint í ljós. En við reyndum að láta það ekki hafa áhrif á okkur og náðum á skömmum tíma að setja upp Face Recognicion sem virkar vel í gegnum raspberry Pi-ið og Logitech myndavélina sem við höfðum við hendina. Þetta face recognicion virkar þannig að við erum með nokkra mismunandi kóða, Einn sem að tekur nokkrar myndir af andliti og savear í möppu undir id sem var valið. Síðan er annar kóði notaður sem lætur forritið læra á myndirnar sem gerir því auðveldar að nema andlit ákveðinnar manneskju. Síðan er lokakóði sem skoðar andlit sem myndavélin sér og getur greint fólk sem hún þekkir, og skilað nafni á þeirri manneskju og prósentu sem lýsir hversu líkur maður er myndunum sem teknar voru til að setja upp prófílinn. 
+### Íhlutir
+**Hlutir sem notaðir voru í verkefninu:**
+* Raspberry Pi 3 Model B v1.2
+* 16GB SD kort
+* 1080p Logitech vefmyndavél
+## Conclusion
+Þetta var skemmtilegur og áhugaverður áfangi, mikið frelsi er nánast alltaf mjög fínt og hentar vel, en eina sem hefði getað farið betur var að fá hlutina sem okkur vantaði til að gera verkefnið sem við höfðum planað. 
+Næstu skref væru að panta kassa og segullás og setja þetta upp inni í honum.
