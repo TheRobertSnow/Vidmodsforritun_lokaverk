@@ -1,5 +1,4 @@
-# Vidmodsforritun_lokaverk
-# Lokaverkefni Skýrsla
+# Vidmotsforritun Lokaverkefni Skýrsla
 **Meðlimir í hóp:**
 - Róbert Snær Harðarson
 - Daníel Þór Gestsson
