@@ -42,11 +42,11 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 
 ### Myndir
 <p float="left">
-  <img src="./Myndir/0xGngMu.jpg" width="320" />
-  <img src="./Myndir/8i6PMnF.jpg" width="320" /> 
-  <img src="./Myndir/OC7Hufa.jpg" width="320" />
-  <img src="./Myndir/b8pmjx8.jpg" width="320" />
-  <img src="./Myndir/bAJgfCE.jpg" width="320" /> 
-  <img src="./Myndir/quokVZV.jpg" width="320" />
-  <img src="./Myndir/tXY3ZRw.jpg" width="320" />
+  <img src="./Myndir/0xGngMu.jpg" width="310" />
+  <img src="./Myndir/8i6PMnF.jpg" width="310" /> 
+  <img src="./Myndir/OC7Hufa.jpg" width="310" />
+  <img src="./Myndir/b8pmjx8.jpg" width="310" />
+  <img src="./Myndir/bAJgfCE.jpg" width="310" /> 
+  <img src="./Myndir/quokVZV.jpg" width="310" />
+  <img src="./Myndir/tXY3ZRw.jpg" width="310" />
 </p>
