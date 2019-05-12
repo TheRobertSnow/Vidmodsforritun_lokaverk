@@ -22,13 +22,13 @@ Skoðað var að setja upp myndavéla stand sem myndi halda utanum alla tölvuhl
 Við reyndum að 3d prenta case fyrir Raspberry Pi-ið en það passaði svo varla í og þurftum að saga það úr caseinu á endanum því að eitt mikilvægt port lineaði ekki upp, Raspberry Pi-ið lifði þetta af en ekki caseið :(
 Pöntuðum hluti í samræmi við hugmyndir okkar og komumst svo að því að nánast ekkert af því sem við pöntuðum skilaði sér til landsins. Þetta hægði mjög á verkefninu, sérstaklega þar sem þetta kom seint í ljós. En við reyndum að láta það ekki hafa áhrif á okkur og náðum á skömmum tíma að setja upp Face Recognicion sem virkar vel í gegnum raspberry Pi-ið og Logitech myndavélina sem við höfðum við hendina. Þetta face recognicion virkar þannig að við erum með nokkra mismunandi kóða, Einn sem að tekur nokkrar myndir af andliti og savear í möppu undir id sem var valið. Síðan er annar kóði notaður sem lætur forritið læra á myndirnar sem gerir því auðveldar að nema andlit ákveðinnar manneskju. Síðan er lokakóði sem skoðar andlit sem myndavélin sér og getur greint fólk sem hún þekkir, og skilað nafni á þeirri manneskju og prósentu sem lýsir hversu líkur maður er myndunum sem teknar voru til að setja upp prófílinn. 
 ### Myndir
-![Mynd1](https://i.imgur.com/8i6PMnF.jpg)
-![Mynd2](https://i.imgur.com/OC7Hufa.jpg)
-![Mynd3](https://i.imgur.com/0xGngMu.jpg)
-![Mynd4](https://i.imgur.com/bAJgfCE.jpg)
-![Mynd5](https://i.imgur.com/tXY3ZRw.jpg)
-![Mynd6](https://i.imgur.com/quokVZV.jpg)
-![Mynd7](https://i.imgur.com/b8pmjx8.jpg)
+![Mynd1](https://i.imgur.com/8i6PMnF.jpg =250x)
+![Mynd2](https://i.imgur.com/OC7Hufa.jpg =250x)
+![Mynd3](https://i.imgur.com/0xGngMu.jpg =250x)
+![Mynd4](https://i.imgur.com/bAJgfCE.jpg =250x)
+![Mynd5](https://i.imgur.com/tXY3ZRw.jpg =250x)
+![Mynd6](https://i.imgur.com/quokVZV.jpg =250x)
+![Mynd7](https://i.imgur.com/b8pmjx8.jpg =250x)
 ### Íhlutir
 **Hlutir sem notaðir voru í verkefninu:**
 * Raspberry Pi 3 Model B v1.2
