@@ -43,7 +43,7 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 ## Video
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="900" height="400" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## Linkur á github, til að skoða kóða og annað
