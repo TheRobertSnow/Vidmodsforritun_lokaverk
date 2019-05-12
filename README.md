@@ -1,16 +1,14 @@
 # Vidmotsforritun Lokaverkefni
 
-# Lokaverkefni Skýrsla
+### Lokaverkefni Skýrsla
 **Meðlimir í hóp:**
 - Róbert Snær Harðarson
 - Daníel Þór Gestsson
 
-## Intro
+### Intro
 Í þessari skýrslu verður sagt frá lokaverkefninu sem þessi hópur var að
 vinna á yfir síðustu vikur. Í þessari skýrslu verður tekið fram hvaða
 tæki voru notuð, hvað var gert og hver útkoman er.
-
-## Body
 
 ### Hugmyndavinna
 Lagðar vour framm tvær hugmyndir. Önnur var að búa til hanska sem hægt væri að nota á einhvern hátt í 3D forriti. Þá væri hanskinn notaður til að stjórna 3D hendi inni í forriti sem væri búið til í Unity.
@@ -34,11 +32,11 @@ Pöntuðum hluti í samræmi við hugmyndir okkar og komumst svo að því að n
 * Breadboard
 * Nokkrir vírar og transistorar
 
-## Conclusion
+### Conclusion
 Þetta var skemmtilegur og áhugaverður áfangi, mikið frelsi er nánast alltaf mjög fínt og hentar vel, en eina sem hefði getað farið betur var að fá hlutina sem okkur vantaði til að gera verkefnið sem við höfðum planað.
 Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inni í honum.
 
-## Video
+### Video
 
 <figure class="video_container">
   <iframe width="900" height="400" src="https://www.youtube.com/embed/eTI4NMIif90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -53,6 +51,6 @@ Næstu skref væru að búa til kassa og panta segullás og setja þetta upp inn
 ![Mynd6](https://i.imgur.com/quokVZV.jpg =250x)
 ![Mynd7](https://i.imgur.com/b8pmjx8.jpg =250x)
 
-## Linkur á github, til að skoða kóða og annað
+### Linkur á github, til að skoða kóða og annað
 [https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk](https://github.com/TheRobertSnow/Vidmodsforritun_lokaverk
 )
